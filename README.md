@@ -72,7 +72,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzicni&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzicni&theme=tokyonight&hide_border=true&cache_bust=1"/>
 </div>
 
 ---
@@ -80,7 +80,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hadzicni&theme=onedark&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hadzicni&theme=onedark&no-frame=true&margin-w=10&cache_bust=1" />
 </div>
 
 ---
