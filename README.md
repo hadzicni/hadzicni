@@ -62,9 +62,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadzicni&show_icons=true&theme=tokyonight&hide_border=true&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hadzicni&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadzicni&layout=compact&theme=tokyonight&hide_border=true&cache_bust=1" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadzicni&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -72,7 +72,7 @@
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzicni&theme=tokyonight&hide_border=true&cache_bust=1"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzicni&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
@@ -80,7 +80,7 @@
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hadzicni&theme=onedark&no-frame=true&margin-w=10&cache_bust=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hadzicni&theme=onedark&no-frame=true&margin-w=10" />
 </div>
 
 ---
