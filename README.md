@@ -43,14 +43,19 @@
 
 ### 📌 Featured Projects
 
-- 🔗 [**Taskly-iOS**](https://github.com/hadzicni/Taskly-iOS)  
-  A task manager for iOS, built with Swift and SwiftUI.
-
-- 🔗 [**YT-DLP Command Generator**](https://github.com/hadzicni/YT-DLP-Command-Generator)  
-  A web-based tool for creating `yt-dlp` commands via UI.
-
-- 🔗 [**Gitignore-CLI**](https://github.com/hadzicni/Gitignore-CLI)  
-  A simple CLI utility to generate `.gitignore` files for common languages and frameworks.
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/hadzicni/Taskly-iOS"><img src="https://github-readme-stats-five-gilt-63.vercel.app/api/pin/?username=hadzicni&repo=Taskly-iOS&theme=tokyonight" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/hadzicni/YT-DLP-Command-Generator"><img src="https://github-readme-stats-five-gilt-63.vercel.app/api/pin/?username=hadzicni&repo=YT-DLP-Command-Generator&theme=tokyonight" /></a>
+    </td>
+    <td>
+      <a href="https://github.com/hadzicni/Gitignore-CLI"><img src="https://github-readme-stats-five-gilt-63.vercel.app/api/pin/?username=hadzicni&repo=Gitignore-CLI&theme=tokyonight" /></a>
+    </td>
+  </tr>
+</table>
 
 ---
 
