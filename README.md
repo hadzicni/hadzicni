@@ -72,10 +72,18 @@
 
 ---
 
+### 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadzicni&theme=tokyo-night&hide_border=true" />
+</div>
+
+---
+
 ### 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadzicni&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=hadzicni&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,6 +102,16 @@
   <a href="mailto:bibilionyt@gmail.com" rel="nofollow">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+</div>
+
+---
+
+### 📄 Summary Cards
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadzicni&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadzicni&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadzicni&theme=tokyonight" />
 </div>
 
 ---
