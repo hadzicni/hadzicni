@@ -8,6 +8,12 @@
   <img src="https://komarev.com/ghpvc/?username=hadzicni&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
+<h1 align="center">
+  <a href="https://nikolahadzic.net" target="_blank">
+    🌐 Visit my Website — <span style="color:#0E75B6;">nikolahadzic.net</span>
+  </a>
+</h1>
+
 ---
 
 ### 💼 About Me
