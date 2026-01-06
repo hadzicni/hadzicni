@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Clean+Code+Enthusiast;Always+Learning+%26+Building)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hadzicni&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/hadzicni)
+
 [![Website](https://img.shields.io/badge/🌐_Visit_My_Website-nikolahadzic.net-0E75B6?style=for-the-badge)](https://nikolahadzic.net)
 
 </div>
