@@ -72,8 +72,8 @@
 **Shell & Scripting**
 
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391CD.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
-![Batchfile](https://img.shields.io/badge/Batchfile-%234D4D4D.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391CD.svg?style=for-the-badge&logo=gnometerminal&logoColor=white)
+![Batchfile](https://img.shields.io/badge/Batchfile-%234D4D4D.svg?style=for-the-badge&logo=gnometerminal&logoColor=white)
 
 **Game & Graphics**
 
