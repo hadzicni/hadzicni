@@ -8,6 +8,10 @@
 
 [![Website](https://img.shields.io/badge/🌐_Visit_My_Website-nikolahadzic.net-0E75B6?style=for-the-badge)](https://nikolahadzic.net)
 
+<a href="https://github.com/sponsors/hadzicni">
+  <img src="https://img.shields.io/badge/Sponsor-GitHub-%23EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white">
+</a>
+
 </div>
 
 ---
