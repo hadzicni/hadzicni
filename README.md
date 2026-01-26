@@ -167,7 +167,7 @@
 
 ## 📫 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-bibilionyt%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bibilionyt@gmail.com)
+[![Email](https://img.shields.io/badge/Email-nikolahadzic7%40icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolahadzic7@icloud.com)
 [![Website](https://img.shields.io/badge/Website-nikolahadzic.net-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikolahadzic.net)
 
 </div>
