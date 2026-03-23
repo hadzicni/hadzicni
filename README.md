@@ -6,7 +6,9 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hadzicni&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/hadzicni)
 
-[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-nikolahadzic.net-0E75B6?style=for-the-badge)](https://nikolahadzic.net)
+<a href="https://nikolahadzic.net" target="_blank" rel="noopener noreferrer">
+  🌐 Visit My Website
+</a>
 
 </div>
 
