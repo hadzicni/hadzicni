@@ -6,7 +6,7 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=hadzicni&label=Profile%20Views&color=0e75b6&style=for-the-badge)](https://github.com/hadzicni)
 
-[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-nikolahadzic.net-0E75B6?style=for-the-badge)](https://nikolahadzic.net)
+[![Website](https://img.shields.io/badge/🌐_Visit_My_Website-nikolahadzic.dev-0E75B6?style=for-the-badge)](https://nikolahadzic.dev)
 
 </div>
 
@@ -164,7 +164,7 @@
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-nikolahadzic7%40icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikolahadzic7@icloud.com)
-[![Website](https://img.shields.io/badge/Website-nikolahadzic.net-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikolahadzic.net)
+[![Website](https://img.shields.io/badge/Website-nikolahadzic.dev-0E75B6?style=for-the-badge&logo=google-chrome&logoColor=white)](https://nikolahadzic.dev)
 
 </div>
 
